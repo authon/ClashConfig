@@ -1,5 +1,9 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+# 匹配数据发起IP(直连)
+SRC-IP-CIDR,10.10.10.13/32
+SRC-IP-CIDR,10.10.10.14/32
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com

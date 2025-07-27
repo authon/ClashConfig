@@ -5,8 +5,12 @@
 # SRC-IP-CIDR,10.10.10.14/32
 
 # MyList
+# 域名匹配
+DOMAIN,time.google.com
+DOMAIN,time.windows.com
+DOMAIN,time.nist.gov
+
 # 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 

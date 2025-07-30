@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,bilicomics.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bilibili.com
+DOMAIN-SUFFIX,bilivideo.cn
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu

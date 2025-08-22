@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,bilicomics.com
 DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bilivideo.cn
+DOMAIN-SUFFIX,tmate.io
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu

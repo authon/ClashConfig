@@ -355,6 +355,9 @@ DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
 
+SRC-IP-CIDR,152.69.228.73/32
+SRC-IP-CIDR,152.67.217.247/32
+
 
 
 # AccelerateDirectSites
@@ -599,3 +602,5 @@ DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+

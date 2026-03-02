@@ -11,6 +11,7 @@ DOMAIN,time.windows.com
 DOMAIN,time.nist.gov
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,mobgi.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,bilicomics.com

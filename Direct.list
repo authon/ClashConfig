@@ -357,6 +357,8 @@ DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,upaiyun.com
 
+	
+IP-CIDR,168.107.47.15/32,no-resolve
 IP-CIDR,152.69.228.73/32,no-resolve
 IP-CIDR,152.67.217.247/32,no-resolve
 

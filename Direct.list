@@ -1,6 +1,6 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 #自己添加
-DOMAIN-SUFFIX,v2.pincc.ai
+DOMAIN-SUFFIX,v2.pincc.jp
 
 # 匹配数据发起IP(直连)
 # SRC-IP-CIDR,10.10.10.13/32
